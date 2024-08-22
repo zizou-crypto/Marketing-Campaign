@@ -60,7 +60,9 @@
    - Profits: Total sales - Ad spend
    - ROAS = Total sales/ Ad spend
    - ROI = Total conversion rate - Spend)/spend * 100
-   New table was created for Date table and Measure tables to calculate the percentage change of each KPI per previous month. 
+   New table was created for Date table and Measure tables to calculate the percentage change of each KPI per previous month.
+   ![](marketing_campaign_4.PNG) ![](marketing_campaign_5.PNG)
+   ![](market.PNG)
    ### KPIs
    - Total sales; 1,730,000 was the total revenue generated from the campaign
    - Profits; The profit made from the whole campaign was 1,570,000
