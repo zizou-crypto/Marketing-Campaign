@@ -60,14 +60,15 @@
    - Profits: Total sales - Ad spend
    - ROAS = Total sales/ Ad spend
    - ROI = Total conversion rate - Spend)/spend * 100
+   New table was created for Date table and Measure tables to calculate the percentage change of each KPI per previous month. 
    ### KPIs
-   Total sales; 1,730,000 was the total revenue generated from the campaign
-   Profits; The profit made from the whole campaign was 1,570,000
-   ROAS (Return on Ad spend); per ad spent 10.61 was made
-   ROI (return on investment); per the amount spent on campaigns 960.77 was made.
-   Impressions; The total number of times the ad was seen was 14,650,000
-   conversion rate; the rate was at 22.17
-   total clicks; 181,590 was the total number of times the ads was clicked on.
+   - Total sales; 1,730,000 was the total revenue generated from the campaign
+   - Profits; The profit made from the whole campaign was 1,570,000
+   - ROAS (Return on Ad spend); per ad spent 10.61 was made
+   - ROI (return on investment); per the amount spent on campaigns 960.77 was made.
+   - Impressions; The total number of times the ad was seen was 14,650,000
+   - conversion rate; the rate was at 22.17
+   - total clicks; 181,590 was the total number of times the ads was clicked on.
    ## Exploratory Data analysis
    The datasets includes essential metrics for different campaigns such as campaign period, cities, devices, channels, click through rate,
    cost per click, ad, impression and engagement metrics such as shares, likes, and comments. The goal of EDA is to uncover important patterns
@@ -87,7 +88,7 @@
    - Correlation between Clicks and Impression: The higher the impressions the higher the clicks generated and vice versa.
    - Monthly Ad spends and ROAS: June, July, August has the lowest Ad spend but the highest ROAS compared to other month, while September to October has
      lowest ROAS with the highest Ad spent.
-     ![](marketing_campaign.png) ![](marketing_campaign_2.png) ![](marketing_campaign_3.png)
+     ![](Marketing_Campaign.PNG) ![](marketing_campaign_2.PNG) ![](marketing_campaign_3.PNG)
      ## Insights
    - London has the lowest ROAS despite high spend, suggesting that campaigns in this city require reevaluation and potentially a different approach.
    - Social media channels and mobile devices are driving the highest engagement, indicating the importance of optimizing content for these platforms.
