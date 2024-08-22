@@ -96,6 +96,10 @@
    - Social media channels and mobile devices are driving the highest engagement, indicating the importance of optimizing content for these platforms.
    - Manchester city generated the most revenue among the three Cities where the campaign was carried out.
    - When it comes to sales, ROI, and Impressions the month of September, October and November returned the most numbers.
+
+     The dashboard consists of page navigation and bookmarks that can use to navigate from the first dashboard to the second dashboard and to switch between
+     charts and matrix. On the dashboard, you can switch between viewing monthly trends for engagement and clicks and the table for KPIs.
+       
    # Conclusion and Recommendation
    - Focus on improving ROAS in London by testing different creatives, messages, and targeting strategies
    - Continue investing in channels and devices that show high engagement and conversions, especially mobile and instagram
